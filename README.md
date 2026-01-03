@@ -18,5 +18,11 @@ This project implements an Interest Sensitivity (IS) Gap framework to assess the
 - Python
 - Pandas
 
+## How to Run
+- Ensure Python (3.x) is installed on your system.
+- Install the required dependency: pandas
+- Download or clone the repository.
+- Run the script.
+
 ## Disclaimer
 This is a simplified educational model built for learning and demonstration purposes.
